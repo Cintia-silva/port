@@ -311,7 +311,7 @@ font-size:  60px !important;
     border-radius: 60%; 
     background-size:100% ;
     padding-top: 25px;
-
+ 
 } /* cria o efeito aredondado*/
 
 .sobre-container p{
@@ -349,6 +349,7 @@ font-size:  60px !important;
 
 .contato{
     float:left;
+    text-align: center;
     width: 50%;
 }
 
@@ -362,8 +363,8 @@ display: inline-block;
 }
 
 div.group-icones{
-    justify-content: space-around;
-    display: flex;
+   justify-content: space-around; 
+  text-align: center;
     margin: 5px;
 }
 
