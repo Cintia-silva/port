@@ -326,10 +326,13 @@ h3 {
     border-radius: 60%;
     background-size: 100%;
     padding-top: 25px;
+
 }
 
 
-/* cria o efeito aredondado*/
+/* cria o efeito ar
+} /* cria o efeito aredondado*/
+
 
 .sobre-container p {
     color: black;
@@ -365,8 +368,13 @@ h3 {
     font-weight: lighter;
 }
 
+
 .contato {
     float: left;
+=======
+.contato{
+    float:left;
+
     text-align: center;
     width: 50%;
 }
@@ -380,9 +388,15 @@ h3 {
     margin-left: 28%;
 }
 
+
 div.group-icones {
     justify-content: space-around;
     text-align: center;
+
+div.group-icones{
+   justify-content: space-around; 
+  text-align: center;
+
     margin: 5px;
 }
 
